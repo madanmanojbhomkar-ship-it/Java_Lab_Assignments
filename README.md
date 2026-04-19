@@ -13,4 +13,4 @@
 
 1b4.(subListExample)        :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/1b(4).png?raw=true
 
-1b5.(RemoveNthElement)      :
+1b5.(RemoveNthElement)      :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/1b(5).png?raw=true
