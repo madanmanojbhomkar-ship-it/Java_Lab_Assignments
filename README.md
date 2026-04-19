@@ -63,7 +63,7 @@
 
 4c.( ImageButtonExample)     :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/4c2.png?raw=true
 
-5a.(JListExample)    :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/5A1.png?raw=true
+5a.(JListExample)     :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/5A1.png?raw=true
 
 5b.(TabbedPaneExample)     :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/5A2.png?raw=true
 
@@ -71,17 +71,19 @@
 
 5d.( ColorTabbedPane)      :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/5D1.png?raw=true
 
-6a.(FactorialServlet)     :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/6A2.png?raw=true
+6a.(FactorialServlet) output2    :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/6A2.png?raw=true
 
-6b.(CookieServlet)     :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/6B1.png?raw=true
+6b.(CookieServlet)  output1     :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/6B1.png?raw=true
 
-6b.(CookieServlet)   :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/6B2.png?raw=true
+6b.(CookieServlet) output2  :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/6B2.png?raw=true
 
-6c.(PrimeServlet)     :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/6C2.png?raw=true
+6c.(PrimeServlet) output2     :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/6C2.png?raw=true
 
-7a()    :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/7A3.png?raw=true
+7a()   output3   :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/7A3.png?raw=true
 
-7b.()   :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/7B2.png?raw=true
+7b.() output1    :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/7B1.png?raw=true
+
+7b.()  output2  :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/7B2.png?raw=true
 
 8a.(CookieServlet)  output1   :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/8A1.png?raw=true
 
