@@ -51,6 +51,8 @@
 
 3c2.(TruncateStringsDemo)    :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/3C2.png?raw=true
 
-3c3.(NumericCheckDemo)     :
+3c3.(NumericCheckDemo)     :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/3C3.png?raw=true
+
+3c4.(RandomStringDemo)      :
 
 
