@@ -79,6 +79,8 @@
 
 7a()    :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/7A3.png?raw=true
 
+7b.()   :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/7B2.png?raw=true
+
 
 
 
