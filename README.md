@@ -71,11 +71,15 @@
 
 5d.( ColorTabbedPane)      :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/5D1.png?raw=true
 
+6a.(FactorialServlet) output1    :
+
 6a.(FactorialServlet) output2    :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/6A2.png?raw=true
 
 6b.(CookieServlet)  output1     :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/6B1.png?raw=true
 
 6b.(CookieServlet) output2  :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/6B2.png?raw=true
+
+6c.(PrimeServlet)  ouput1   :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/6C1.png?raw=true
 
 6c.(PrimeServlet) output2     :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/6C2.png?raw=true
 
