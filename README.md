@@ -79,6 +79,8 @@
 
 6c.(PrimeServlet) output2     :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/6C2.png?raw=true
 
+7a()  output1     :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/7A1.png?raw=true
+
 7a() output2      :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/7A2.png?raw=true
 
 7a()   output3   :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/7A3.png?raw=true
