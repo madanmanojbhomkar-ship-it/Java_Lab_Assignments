@@ -29,4 +29,6 @@
 
 2a.(StringOperationsDemo)           :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/2A.png?raw=true
 
+2b.(StringPerformanceTest)         :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/2B.png?raw=true
+
 
