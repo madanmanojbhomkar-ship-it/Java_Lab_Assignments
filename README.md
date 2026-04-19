@@ -89,7 +89,9 @@
 
 9a.(SessionServlet)    :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/9A2.png?raw=true
 
-9b.()       :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/9B3.png?raw=true
+9b.() output2   :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/9B2.png?raw=true
+
+9b.() output3      :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/9B3.png?raw=true
 
 9c.()  output1   :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/9C1.png?raw=true
 
