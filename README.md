@@ -6,3 +6,5 @@
 1b.  Array List programs 
 
 1b1.( ColorSearch)        :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/1b(1).png?raw=true
+
+1b2.( RemoveColors)     :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/1b(2).png?raw=true
