@@ -63,7 +63,7 @@
 
 5a.(JListExample)    :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/5A1.png?raw=true
 
-5b.(TabbedPaneExample)     :
+5b.(TabbedPaneExample)     :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/5A2.png?raw=true
 
 
 
