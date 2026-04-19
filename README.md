@@ -14,3 +14,7 @@
 1b4.(subListExample)        :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/1b(4).png?raw=true
 
 1b5.(RemoveNthElement)      :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/1b(5).png?raw=true
+
+1c1.( LinkdListItearatorExample)          :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/1c(1).png?raw=true
+
+1c2.()
