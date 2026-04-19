@@ -22,3 +22,5 @@
 1c2.( ReversedLinkedList)        :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/1c(2).png?raw=true
 
 1c3.(InsertAtEnd)            :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/1c(3).png?raw=true
+
+1c4(DisplayPositionLinkedList)       :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/1c(4).png?raw=true
