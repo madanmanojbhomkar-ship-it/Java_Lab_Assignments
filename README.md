@@ -112,15 +112,15 @@
 
 9b.(index.jsp) output3      :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/9B3.png?raw=true
 
-9c.()  output1   :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/9C1.png?raw=true
+9c.(index.jsp)  output1   :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/9C1.png?raw=true
 
-9c.()  output2   :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/9C2.png?raw=true
+9c.(index.jsp)  output2   :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/9C2.png?raw=true
 
-9c.()   output3     :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/9C3.png?raw=true
+9c.(index.jsp)   output3     :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/9C3.png?raw=true
 
-10a.() output1   :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/10A1.png?raw=true
+10a.(index.jsp) output1   :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/10A1.png?raw=true
 
-10a.()  output2      :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/10A2.png?raw=true
+10a.(index.jsp)  output2      :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/10A2.png?raw=true
 
 10b.(index.jsp) output1   :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/10B1.png?raw=true
 
