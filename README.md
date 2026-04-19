@@ -85,11 +85,13 @@
 
 8a.( CookieServlet)    :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/8A2.png?raw=true
 
+8b.(CookieServlet)     :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/8B1.png?raw=true
+
 8b.(CookieServlet)   :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/8B2.png?raw=true
 
 9a.(CookieServlet)    :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/9A1.png?raw=true
 
-9a.(SessionServlet)    :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/9A2.png?raw=true
+9a.(CookieServlet)    :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/9A2.png?raw=true
 
 
 9b.() output1    :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/9B1.png?raw=true
