@@ -35,4 +35,6 @@
 
 3b. String Exercise progams
 
+3b1.(CheckNullorEmpty )           :
+
 
