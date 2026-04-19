@@ -39,6 +39,8 @@
 
 3b2.(countSubstring)            :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/3B2.png?raw=true
 
-3b3.( ReversedString)
+3b3.( ReversedString)           :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/3B3.png?raw=true
+
+3b4.( PalindromeCheck)    
 
 
