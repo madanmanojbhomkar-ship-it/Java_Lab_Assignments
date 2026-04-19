@@ -17,4 +17,4 @@
 
 1c1.( LinkdListItearatorExample)          :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/1c(1).png?raw=true
 
-1c2.()
+1c2.( ReversedLinkedList)        :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/1c(2).png?raw=true
