@@ -83,6 +83,8 @@
 
 8a.( CookieServlet)    :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/8A2.png?raw=true
 
+8b.(CookieServlet)   :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/8B2.png?raw=true
+
 
 
 
