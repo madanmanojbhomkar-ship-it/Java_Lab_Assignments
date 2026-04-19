@@ -37,6 +37,8 @@
 
 3b1.(CheckNullorEmpty )           :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/3B1.png?raw=true
 
-3b2.(countSubstring)              
+3b2.(countSubstring)            :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/3B2.png?raw=true
+
+3b3.( ReversedString)
 
 
