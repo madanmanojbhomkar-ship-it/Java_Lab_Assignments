@@ -77,6 +77,8 @@
 
 6c.(PrimeServlet)     :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/6C2.png?raw=true
 
+7a()    :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/7A3.png?raw=true
+
 
 
 
