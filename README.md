@@ -67,6 +67,8 @@
 
 5c.(CountryCapitalList)    :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/5C1.png?raw=true
 
+5d.( ColorTabbedPane)      :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/5D1.png?raw=true
+
 
 
 
