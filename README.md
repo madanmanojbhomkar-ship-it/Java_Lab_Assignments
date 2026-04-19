@@ -71,7 +71,7 @@
 
 5d.( ColorTabbedPane)      :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/5D1.png?raw=true
 
-6a.(FactorialServlet) output1    :
+6a.(FactorialServlet) output1    :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/6A1.png?raw=true
 
 6a.(FactorialServlet) output2    :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/6A2.png?raw=true
 
