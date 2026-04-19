@@ -71,7 +71,7 @@
 
 6b.(CookieServlet)     :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/6B1.png?raw=true
 
-6b.(CookieServlet)   :
+6b.(CookieServlet)   :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/6B2.png?raw=true
 
 
 
