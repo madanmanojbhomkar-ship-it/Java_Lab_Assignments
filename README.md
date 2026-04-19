@@ -89,6 +89,8 @@
 
 9b.()       :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/9B3.png?raw=true
 
+9c.()       :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/9C3.png?raw=true
+
 
 
 
