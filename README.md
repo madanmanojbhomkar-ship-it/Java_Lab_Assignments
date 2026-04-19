@@ -27,4 +27,6 @@
 
 1c5.(SwapElementLinkedList )          :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/1c(5).png?raw=true
 
+2a.(StringOperationsDemo)           :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/2A.png?raw=true
+
 
