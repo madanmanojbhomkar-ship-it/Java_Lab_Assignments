@@ -10,3 +10,5 @@
 1b2.( RemoveColors)     :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/1b(2).png?raw=true
 
 1b3.( RemoveNthElement)     :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/1b(3).png?raw=true
+
+1b4.(subListExample)        :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/1b(4).png?raw=true
