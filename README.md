@@ -93,6 +93,8 @@
 
 9c.()  output1   :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/9C1.png?raw=true
 
+9c.()  output2   :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/9C2.png?raw=true
+
 9c.()   output3     :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/9C3.png?raw=true
 
 10a.() output1   :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/10A1.png?raw=true
