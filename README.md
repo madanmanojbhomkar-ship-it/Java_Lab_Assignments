@@ -83,15 +83,15 @@
 
 6c.(PrimeServlet) output2     :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/6C2.png?raw=true
 
-7a()  output1     :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/7A1.png?raw=true
+7a(index.jsp)  output1     :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/7A1.png?raw=true
 
-7a() output2      :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/7A2.png?raw=true
+7a(index.jsp) output2      :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/7A2.png?raw=true
 
-7a()   output3   :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/7A3.png?raw=true
+7a(index.jsp)   output3   :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/7A3.png?raw=true
 
-7b.() output1    :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/7B1.png?raw=true
+7b.(index.jsp) output1    :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/7B1.png?raw=true
 
-7b.()  output2  :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/7B2.png?raw=true
+7b.(index.jsp)  output2  :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/7B2.png?raw=true
 
 8a.(CookieServlet)  output1   :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/8A1.png?raw=true
 
