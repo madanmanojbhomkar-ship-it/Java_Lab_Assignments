@@ -31,4 +31,8 @@
 
 2b.(StringPerformanceTest)         :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/2B.png?raw=true
 
+3a.(StringHandlingsDemo)           :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/3A.png?raw=true
+
+3b. String Exercise progams
+
 
