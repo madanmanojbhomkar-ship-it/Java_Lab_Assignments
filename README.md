@@ -41,6 +41,8 @@
 
 3b3.( ReversedString)           :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/3B3.png?raw=true
 
-3b4.( PalindromeCheck)    
+3b4.( PalindromeCheck)       :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/3B4.png?raw=true
+
+3b5.(RemoveWhiteSpaceDemo)    
 
 
