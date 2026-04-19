@@ -35,6 +35,8 @@
 
 3b. String Exercise progams
 
-3b1.(CheckNullorEmpty )           :
+3b1.(CheckNullorEmpty )           :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/3B1.png?raw=true
+
+3b2.(countSubstring)              
 
 
