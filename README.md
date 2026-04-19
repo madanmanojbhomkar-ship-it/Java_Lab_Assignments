@@ -49,6 +49,8 @@
 
 3c1.(CapitalizeWordsDemo)       :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/3C1.png?raw=true
 
-3c2.(TruncateStringsDemo)    :
+3c2.(TruncateStringsDemo)    :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/3C2.png?raw=true
+
+3c3.(NumericCheckDemo)     :
 
 
