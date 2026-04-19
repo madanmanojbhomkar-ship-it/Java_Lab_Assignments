@@ -65,6 +65,8 @@
 
 5b.(TabbedPaneExample)     :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/5A2.png?raw=true
 
+5c.(CountryCapitalList)    :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/5C1.png?raw=true
+
 
 
 
