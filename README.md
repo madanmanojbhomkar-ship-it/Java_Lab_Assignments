@@ -69,7 +69,9 @@
 
 5d.( ColorTabbedPane)      :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/5D1.png?raw=true
 
-6b1.(FactorialServlet)     :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/6B1.png?raw=true
+6b.(CookieServlet)     :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/6B1.png?raw=true
+
+6b.(CookieServlet)
 
 
 
