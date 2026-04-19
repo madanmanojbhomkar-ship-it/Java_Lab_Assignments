@@ -43,6 +43,10 @@
 
 3b4.( PalindromeCheck)       :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/3B4.png?raw=true
 
-3b5.(RemoveWhiteSpaceDemo)    
+3b5.(RemoveWhiteSpaceDemo)           :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/3B5.png?raw=true
+
+3c. String Exercise progams
+
+3c6.(CapitalizeWordsDemo)       :
 
 
