@@ -61,6 +61,8 @@
 
 4b.(ButtonExample)     :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/4B.png?raw=true
 
+4c.( ImageButtonExample)     :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/4c2.png?raw=true
+
 5a.(JListExample)    :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/5A1.png?raw=true
 
 5b.(TabbedPaneExample)     :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/5A2.png?raw=true
