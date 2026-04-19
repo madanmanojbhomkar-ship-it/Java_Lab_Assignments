@@ -55,6 +55,6 @@
 
 3c4.(RandomStringDemo)      :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/3C4.png?raw=true
 
-3c5.(WordCountDemo)     :
+3c5.(WordCountDemo)     :https://github.com/madanmanojbhomkar-ship-it/Java_Lab_Assignments/blob/main/3C5.png?raw=true
 
 
